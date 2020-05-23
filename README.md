@@ -4,3 +4,5 @@ add one note
 # gitskills -version1.0
 ## branch mannerge
 both has its good thing
+
+//--no-ff用法
